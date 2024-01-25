@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Escritorio\proyecto php\bin\Debug\net8.0\proyecto php.exe
+C:\Users\david\OneDrive\Escritorio\proyecto php\bin\Debug\net8.0\proyecto php.deps.json
+C:\Users\david\OneDrive\Escritorio\proyecto php\bin\Debug\net8.0\proyecto php.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\proyecto php\bin\Debug\net8.0\proyecto php.dll
+C:\Users\david\OneDrive\Escritorio\proyecto php\bin\Debug\net8.0\proyecto php.pdb
+C:\Users\david\OneDrive\Escritorio\proyecto php\obj\Debug\net8.0\proyecto php.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Escritorio\proyecto php\obj\Debug\net8.0\proyecto php.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\proyecto php\obj\Debug\net8.0\proyecto php.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\proyecto php\obj\Debug\net8.0\proyecto php.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\proyecto php\obj\Debug\net8.0\proyecto php.dll
+C:\Users\david\OneDrive\Escritorio\proyecto php\obj\Debug\net8.0\refint\proyecto php.dll
+C:\Users\david\OneDrive\Escritorio\proyecto php\obj\Debug\net8.0\proyecto php.pdb
+C:\Users\david\OneDrive\Escritorio\proyecto php\obj\Debug\net8.0\proyecto php.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\proyecto php\obj\Debug\net8.0\ref\proyecto php.dll
